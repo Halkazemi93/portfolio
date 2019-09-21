@@ -1,0 +1,61 @@
+.email{
+    font-family: cursive;
+    font-size: 10;
+    text-align: center;
+    color: white;
+}
+.username {
+    font-family: cursive;
+    font-size: 10;
+    text-align: center;
+    color: white;
+
+}
+.main-img {
+    border: solid black 4px;
+    border-radius: 50%;
+    text-align: center;
+    background: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    border: solid white 4px;
+    padding: 4px 10px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.Hobbies {
+    color: white;
+    font-family: cursive;
+}
+
+header {
+  text-align: center;
+/*
+  background-size: cover;
+  overflow: hidden;
+*/
+  padding-top: 60px;
+  line-height: 1.5;
+
+}
+
+body {
+    background: url('Kuwait-Towers.jpg') no-repeat top center;
+
+}
+
+li {
+    color: white;
+}
+
+a {
+    color: #0499ff;
+
+}
